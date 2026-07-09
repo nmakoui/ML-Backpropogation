@@ -1,0 +1,15 @@
+# Collected gameplay data (large, regenerate by playing the game in Data Collection mode)
+*.csv
+
+# Uncompressed background (use Sprites/BackGround.jpg instead — same image, 100x smaller)
+Sprites/BackGround.bmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
